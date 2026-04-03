@@ -3,7 +3,7 @@
 <h1 align="center">⚡ Md Siyam Hossain</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Science+Engineer;AI+%7C+Machine+Learning+%7C+Deep+Learning;Data+Analytics+%7C+Statistical+Modeling;Building+Scalable+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Science+Engineer;AI+%7C+Machine+Learning+%7C+Deep+Learning;Data+Analytics+%7C+Backend+Developer;Building+Scalable+Intelligent+Systems" />
 </p>
 
 <p align="center">
