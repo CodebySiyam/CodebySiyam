@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jisan23051365&label=Profile+Views&color=00f7ff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=CodebySiyam&label=Profile+Views&color=00f7ff&style=flat" />
 </p>
 
 <p align="center">
@@ -56,9 +56,9 @@ Data Science Engineer specializing in:
 ## 📊 GitHub Intelligence Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodebySiyam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodebySiyam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 ---
