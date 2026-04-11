@@ -32,6 +32,10 @@ Data Science Learner specializing in:
 ### 🚀 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🧠 AI / ML / DL
@@ -44,12 +48,17 @@ Data Science Learner specializing in:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### ⚙️ Tools & Systems
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
 
@@ -90,9 +99,9 @@ Data Science Learner specializing in:
 
 
 ### 🤖 Individual Carbon Footprints Prediction
-- ML-driven fraud detection & anomaly analysis  
-- Risk scoring, behavioral analytics  
-- Regulatory compliance automation  
+- Used individual behavioral data to estimate personal carbon footprint 
+- Applied SHAP-based explainability in ML models to understand which lifestyle factors impact emissions the most.  
+- Trained and compared multiple machine learning models to find the most accurate prediction system. 
 
 🔗 https://github.com/CodebySiyam/Individual_Carbon_Footprints_Prediction
 
@@ -123,3 +132,9 @@ Data Science Learner specializing in:
 </p>
 
 <h3 align="center">🚀 Data • Intelligence • Systems</h3>
+
+---
+
+<p align="center">
+  <i>— Md Siyam Hossain</i>
+</p>
